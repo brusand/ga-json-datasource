@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "logadashboard",
+  "private_key_id": "0ca2ec0a14cbb3063b9d4b556e663bc68f28216e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCcomDLd1fJZw0i\nZiVkjYsdRywLTDwVPqJTgk2O1AI/uJ1CfURO/QMhH70hhGDBoLsk1C1maqLq9xJZ\nYmbs8R+bGMbp9E/7s39pZvpZZVzzb2zbLht8geUMEEs9CWpscsvom4M+uPrUr88u\nCriGPpFp+KYHuses9HKIwWbRjyW8fIceC6w/SULwQi0adkQ+CcWxjjjE4kjZBwrv\n93ru22ZoV44hZE/Iz2HQ02YzjmtX/r+uy81ro47GK/hQTPadnebfO9XCjqLxBbs/\nbchtGU2BGZIEj0145sLE5jNGKyJajS37iYfScUJhN6KSgtR6ZSzjFS40PWkKQOUQ\n5/9/ZlRNAgMBAAECgf9GuAl709DkMzglj84ngsCMjNXAmWrcggBIM/dQb+g+sjD5\nFBWt6WNq+9QojdwhkAWZWzLO9YEZFPRJPGRmwMxu+it/oGQnAE6bss2ADy59upEr\nZGXZ5nZuO+0RtxlAXZQy3APQYzQx/YP3sF9056A/zZkouZaYQBsgzjEzQa4yqvup\nG1bcmE/6ih8sv+tkOdyCVv3j1nHwebp74SymBaEWfndIen0QF0WU2K/hLXd5rayH\nUagjIUs9asmsmpyWuDQPc3YHPZtIQQM2jbuNwy/rwv5ofyWxHLir/9FjaBSDq7Rs\nIbWMmDIH7+pMjYJ1RlhGOgfIuSmVG/RpBD7uOLkCgYEA3LLCyoh7i3QRleF7yBO2\nUTH+Cz4iaoiRjH6EPHktkj2wPe3gXsie1Xh/q5EmEfeA0wkXy8DQnR36bTA8hGXs\nSIoYBb5YhvTAcV9wMOVW499u9h1/st6PgkZ1PEmILCzyMa+A36TRVeb7OwhUCJZY\nRvKrzwLBJ6D+3mJBBiCGvNUCgYEAtbBMwgmjEHhFx0o+YgM+aFl3Ev4s8jAmfre3\njcNRTBQ7Z5ToTNNY92I3cuOtKld+4saSjsbMFTK1RAwvjyM2DBYLN5tMJMtMknv9\ntkzkZMutYcFt+0UMUuAk8bLdWyENfOvdi4nKklA6rYXS703rASWYIbUTiaO4Ebam\n/2TaFZkCgYBWZcTL9NIora+UtUj38n+VGbUSQajHe98+2Oh7pBSrA2tTUyRa9r73\nYszYJWJ59iKAezbNlRYV6/51cETAsAXn/+eXmASgEICl4W7SNXXmjzmpL7MmGuqj\nXWHX0BF2+cF2ofYZlzQ8JMiFO6VqFzFH1Qhdaf6jvOsJs/0woNseYQKBgAC+M9In\nT+9lToO+HfswoDS1CPOe7ngfEkk6XxnJTq/M9WE7DqghxR9d23Qw0ih2KyKqRTco\nQPVlO7CHjDo9np72CB22GN2dpzaCI0t3jQeMfa0EqXp5kc9U81G5tYYF4JQ+Mq27\nZoSqp1LGVVJ9MxTSHokkwGuzq7EG2i/5LZshAoGBAIqnsMZ4p+uioBQEsrVJ9DEt\n2P7MV2VvlUBgBnQj9LrGsQZvHx/54GYERiU8CgB2tnJPgKDRW8TCxue2cx5ikRi+\nUnNFX5BnmD6/11S8VAvMJLnq++72sJbf6Cof2VEcdthLbfC3E9/hGlWakIo6wB5R\nK/jt/VgMIvYT/8lwif8R\n-----END PRIVATE KEY-----\n",
+  "client_email": "logaportal@logadashboard.iam.gserviceaccount.com",
+  "client_id": "115957175447168786760",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/logaportal%40logadashboard.iam.gserviceaccount.com"
+}
